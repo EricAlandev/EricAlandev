@@ -1,16 +1,12 @@
-## Hi there 👋
+Dev Front End 
 
-<!--
-**EricAlandev/EricAlandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- React js, Tailwind.
+- Atualmente estudando Node Express
+- Foco em me tornar um dev javascript fullstack.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<i class="devicon-react-original-wordmark colored"></i>
+<i class="devicon-tailwindcss-original colored"></i>
+<i class="devicon-nodejs-plain-wordmark colored"></i>
+          
+          
+          
